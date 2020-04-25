@@ -7,4 +7,4 @@ author: "David Budzynski"
 
 # This is my very first blog post in Gatsby.
 
-![a test](../../../public/static/6d91c86c0fde632ba4cd01062fd9ccfa/ee604/gatsby-astronaut.png)
+hello world!
