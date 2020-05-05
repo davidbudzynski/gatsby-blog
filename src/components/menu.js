@@ -2,12 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 const Menu = () => (
-  <div
-    style={{
-      background: "#f4f4f4",
-      paddingTop: "10px",
-    }}
-  >
+  <div className="pt-3 bg-gray-200">
     <ul
       style={{
         listStyle: "none",
